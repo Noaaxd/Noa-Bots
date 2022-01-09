@@ -1,0 +1,12 @@
+{
+    "Developer": [""],
+    "Prefix":"g!",
+    "Token":"",
+    "mongoDB":"",
+    "BotStatus":"",
+    "guildID":"",
+    "EmbedColor":"2F3136",
+    "whitelist":[""],
+    "boosterRole":"",
+    "jailRole":""
+}
